@@ -1,7 +1,7 @@
 <div>
    <h1>Oiee! Eu sou Ana Carolina, seja bem vindo(a)😆<h1/>
    <a href="https://github.com/carolbalbs">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolbalbs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolbalbs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbalbs&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
