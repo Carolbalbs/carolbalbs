@@ -1,6 +1,6 @@
 
 <div>
-   <h1>Oiee! Eu sou Ana Carolina, seja bem vindo(a)😆<h1/>
+   <h1>Oiee! Eu sou Ana Carolina, Seja bem vindo(a)😆</h1>
      <img src="octocat-mascote1.png" align="right" width="270">
 
    <a href="https://github.com/carolbalbs">
@@ -9,10 +9,9 @@
      <img src=" https://github-readme-stats.vercel.app/api/pin/?username=carolbalbs&repo=github-readme-stats&theme=radical"/>
       
   
-
-</div>
 <div>   <p align="center">  <img src="PYh.gif"  height="100" ></p> </div>
-<h3 align="left">Languages and Tools:</h3>
+      
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -32,6 +31,14 @@
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+   <h1>Projects Overview</h1>
+
+<p> Acesse alguns dos projetos e veja-os funcionando em execução direta via repositório GitHub.</p>
+
+*  <a href="a" target="_blank" rel="noreferrer">Frontend</a>
+* <a href="a" target="_blank" rel="noreferrer">Backend</a>
+*  <a href="a" target="_blank" rel="noreferrer">Data Sciece</a>
+*  <a href="a" target="_blank" rel="noreferrer">Robotica</a>
 </p>
 
 
