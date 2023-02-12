@@ -9,7 +9,7 @@
 </div>
 <h3 align="left">Languages and Tools:</h3>
             <figure class="gif">
-            <img src="PYh.gif" width="40" height="40">
+            <img src="PYh.gif"  height="100">
             </figure>
 <p align="left"> 
    
