@@ -1,7 +1,7 @@
 
 <div>
    <h1>Oiee! Eu sou Ana Carolina, seja bem vindo(a)😆<h1/>
-     <img src="octocat-mascote1.png" align="right" width="290">
+     <img src="octocat-mascote1.png" align="right" width="280">
 
    <a href="https://github.com/carolbalbs">
    <img  height="120em" src="https://github-readme-stats.vercel.app/api?username=carolbalbs&show_icons=true&theme=radical&count_private=true&hide=prs,contribs"/>
