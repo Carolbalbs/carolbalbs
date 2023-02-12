@@ -1,3 +1,5 @@
+<img src="octocat-mascote.png" align="right" width="300">
+
 <div>
    <h1>Oiee! Eu sou Ana Carolina, seja bem vindo(a)😆<h1/>
    <a href="https://github.com/carolbalbs">
