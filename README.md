@@ -1,4 +1,4 @@
-<img src="octocat-mascote1.png" align="right" width="400">
+<img src="octocat-mascote1.png" align="right" width="500">
 
 <div>
    <h1>Oiee! Eu sou Ana Carolina, seja bem vindo(a)😆<h1/>
