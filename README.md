@@ -6,12 +6,11 @@
    <a href="https://github.com/carolbalbs">
    <img  height="120em" src="https://github-readme-stats.vercel.app/api?username=carolbalbs&show_icons=true&theme=radical&count_private=true&hide=prs,contribs"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbalbs&layout=compact&langs_count=6&theme=radical"/>
-     <img src=" https://github-readme-stats.vercel.app/api/pin/?username=carolbalbs&repo=github-readme-stats&theme=radical"/>
+   <img src=" https://github-readme-stats.vercel.app/api/pin/?username=carolbalbs&repo=github-readme-stats&theme=radical"/>
       
-  
-<div>   <p align="center">  <img src="PYh.gif"  height="100" ></p> </div>
       
 <h2 align="left">Languages and Tools:</h2>
+
 <p align="left"> 
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -40,7 +39,7 @@
 *  <a href="a" target="_blank" rel="noreferrer">Data Sciece</a>
 *  <a href="a" target="_blank" rel="noreferrer">Robotica</a>
 </p>
-
+<div><p align="center">  <img src="PYh.gif"  height="100" ></p> </div>
 
 </div>
  
