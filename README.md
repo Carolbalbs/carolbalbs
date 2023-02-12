@@ -2,17 +2,17 @@
 
 <div>
    <h1>Oiee! Eu sou Ana Carolina, seja bem vindo(a)😆<h1/>
+     
    <a href="https://github.com/carolbalbs">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolbalbs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbalbs&layout=compact&langs_count=6&theme=tokyonight"/>
+      
+  
 
 </div>
+      <p align="center">  <img src="PYh.gif"  height="100" ></p> 
 <h3 align="left">Languages and Tools:</h3>
-            <figure class="gif">
-            <img src="PYh.gif"  height="100">
-            </figure>
 <p align="left"> 
-   
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
