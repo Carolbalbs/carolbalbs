@@ -37,7 +37,7 @@
 *  <a href="a" target="_blank" rel="noreferrer">Frontend</a>
 * <a href="a" target="_blank" rel="noreferrer">Backend</a>
 *  <a href="a" target="_blank" rel="noreferrer">Data Sciece</a>
-*  <a href="a" target="_blank" rel="noreferrer">Robotica</a>
+*  <a href="[a](https://github.com/robochicas)" target="_blank" rel="noreferrer">Robotica</a>
 </p>
 <div><p align="center">  <img src="PYh.gif"  height="100" ></p> </div>
 
