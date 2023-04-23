@@ -34,8 +34,8 @@
 
 <p> Acesse alguns dos projetos e veja-os funcionando em execução direta via repositório GitHub [EM CONSTRUCAO].</p>
 
-*  <a href="a" target="_blank" rel="noreferrer">Frontend</a>
-* <a href="a" target="_blank" rel="noreferrer">Backend</a>
+*  <a href="a" target="_blank" rel="noreferrer">Front-end</a>
+* <a href="a" target="_blank" rel="noreferrer">Back-end</a>
 *  <a href="a" target="_blank" rel="noreferrer">Data Sciece</a>
 *  <a href="https://github.com/robochicas" target="_blank" rel="noreferrer">Robotica</a>
 </p>
