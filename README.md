@@ -34,9 +34,9 @@
 
 <p> Acesse alguns dos projetos e veja-os funcionando em execução direta via repositório GitHub [EM CONSTRUCAO].</p>
 
-*  <a href="a" target="_blank" rel="noreferrer">Front-end</a>
-* <a href="a" target="_blank" rel="noreferrer">Back-end</a>
-*  <a href="a" target="_blank" rel="noreferrer">Data Sciece</a>
+*  <a href="https://github.com/Carolbalbs/front-end" target="_blank" rel="noreferrer">Front-end</a>
+* <a href="https://github.com/Carolbalbs/back-end" target="_blank" rel="noreferrer">Back-end</a>
+*  <a href="https://github.com/Carolbalbs/data-science" target="_blank" rel="noreferrer">Data Sciece</a>
 *  <a href="https://github.com/robochicas" target="_blank" rel="noreferrer">Robotica</a>
 </p>
 <div><p align="center">  <img src="PYh.gif"  height="100" ></p> </div>
