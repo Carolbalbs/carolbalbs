@@ -39,7 +39,7 @@
 *  <a href="https://github.com/Carolbalbs/data-science" target="_blank" rel="noreferrer">Data Sciece</a>
 *  <a href="https://github.com/robochicas" target="_blank" rel="noreferrer">Robotica</a>
 </p>
-<div><p align="center">  <img src="PYh.gif"  height="100" ></p> </div>
+<div><p align="center">  <img src="ZH5o2lacOA8Te.gif"  height="200" ></p> </div>
 
 </div>
  
