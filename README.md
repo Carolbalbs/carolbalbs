@@ -30,15 +30,10 @@
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-   <h1>Projects Overview</h1>
+  
 
-<p> Acesse alguns dos projetos e veja-os funcionando em execução direta via repositório GitHub [EM CONSTRUCAO].</p>
 
-*  <a href="https://github.com/Carolbalbs/front-end" target="_blank" rel="noreferrer">Front-end</a>
-* <a href="https://github.com/Carolbalbs/back-end" target="_blank" rel="noreferrer">Back-end</a>
-*  <a href="https://github.com/Carolbalbs/data-science" target="_blank" rel="noreferrer">Data Sciece</a>
-*  <a href="https://github.com/robochicas" target="_blank" rel="noreferrer">Robotica</a>
-</p>
+
 <div><p align="center">  <img src="ZH5o2lacOA8Te.gif"  height="200" ></p> </div>
 
 </div>
