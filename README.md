@@ -31,12 +31,12 @@
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> -->
   
-
+</div>
 
 
 <div><p align="center">  <img src="ZH5o2lacOA8Te.gif"  height="200" ></p> </div>
 
-</div>
+
  
  <br>
  
